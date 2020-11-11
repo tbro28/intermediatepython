@@ -1,0 +1,3 @@
+WARNING:root:This is a warning
+ERROR:root:This is an ERROR
+CRITICAL:root:This is ***CRITICAL***

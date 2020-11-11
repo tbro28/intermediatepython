@@ -1,0 +1,11 @@
+debug python using idle:
+- open the source file
+- from the menu run-> python shell open this by clicking
+- from the shell window open the debugger by clicking 
+shell->debug->debugger
+- this opens the debug window
+- align all three windows
+- set breakpoint on a source instruction on the source window
+- hit the run module from the source window from the run menu
+- play with step/over/out/go buttons on the debug window
+- good luck

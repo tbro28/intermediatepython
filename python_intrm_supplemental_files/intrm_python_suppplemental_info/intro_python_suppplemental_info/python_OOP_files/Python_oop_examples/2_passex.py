@@ -1,0 +1,1 @@
+class rect(object):     passrect.l = 10 print (rect.l)

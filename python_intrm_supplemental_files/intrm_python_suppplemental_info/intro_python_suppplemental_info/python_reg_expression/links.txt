@@ -1,0 +1,2 @@
+1. https://regexone.com/lesson/excluding_characters?
+2. https://regexone.com/references/python
